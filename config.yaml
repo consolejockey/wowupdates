@@ -1,0 +1,22 @@
+addonPath: "PATH TO ~/World of Warcraft/_retail_/Interface/AddOns"
+
+addons:
+  bigwigs: False
+  littlewigs: False
+  details: False
+  plater: False
+  tomtom: False
+  weakaura: False
+  raiderio: False
+
+
+modIDs:
+  bigwigs: 2382
+  littlewigs: 4383
+  details: 61284
+  plater: 100547
+  tomtom: 18808
+  weakaura: 65387
+  raiderio: 279257
+
+api: "https://www.curseforge.com/api/v1/mods/"
