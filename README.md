@@ -1,3 +1,6 @@
+<img src="wowupdates.png" alt="logo" width="200"/>
+
+
 # wowupdates
 An easy-to-use updater for World of Warcraft retail addons, leveraging the internal CurseForge API to download and update your favorite addons.
 
