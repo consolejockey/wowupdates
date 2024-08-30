@@ -8,7 +8,14 @@ addons:
   tomtom: False
   weakaura: False
   raiderio: False
-
+  vuhdo: False
+  bartender4: False
+  true-stat-values: False
+  narcissus: False
+  elvui-windtools: False
+  handynotes: False
+  mythic-dungeon-tools: False
+  silverdragon: False
 
 modIDs:
   bigwigs: 2382
@@ -18,5 +25,13 @@ modIDs:
   tomtom: 18808
   weakaura: 65387
   raiderio: 279257
+  vuhdo: 7950
+  bartender4: 13501
+  true-stat-values: 437378
+  narcissus: 311718
+  elvui-windtools: 300361
+  handynotes: 14154
+  mythic-dungeon-tools: 288981
+  silverdragon: 14647
 
 api: "https://www.curseforge.com/api/v1/mods/"
