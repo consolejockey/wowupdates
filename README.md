@@ -11,4 +11,6 @@ An easy-to-use updater for World of Warcraft retail addons, leveraging the inter
 - **Fast and Minimal**: Designed to be lightweight and efficient, making the addon update process quick and hassle-free.
 
 ## Usage
-Ensure your desired addons are enabled in the `config.yaml` by setting them to `True`.
+1. Download the source code and executable (or build the executable yourself using `go build`).
+2. Unzip the source code folder and move the executable into it.
+3. Open the `config.yaml` file and set your desired add-ons to `True` to enable them.
