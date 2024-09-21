@@ -2,6 +2,7 @@ addonPath: "PATH TO ~/World of Warcraft/_retail_/Interface/AddOns"
 
 addons:
   bigwigs: False
+  bigwigs-burning-crusade: False
   littlewigs: False
   details: False
   plater: False
@@ -20,6 +21,7 @@ addons:
 
 modIDs:
   bigwigs: 2382
+  bigwigs-burning-crusade: 50688
   littlewigs: 4383
   details: 61284
   plater: 100547
