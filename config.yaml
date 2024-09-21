@@ -14,6 +14,7 @@ addons:
   narcissus: False
   elvui-windtools: False
   handynotes: False
+  handynoteswarwithin: False
   mythic-dungeon-tools: False
   silverdragon: False
 
@@ -31,6 +32,7 @@ modIDs:
   narcissus: 311718
   elvui-windtools: 300361
   handynotes: 14154
+  handynoteswarwithin: 932955
   mythic-dungeon-tools: 288981
   silverdragon: 14647
 
